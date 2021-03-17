@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @patel021299
-- 👀 I’m interested in Python for machinlerning and ai bild
+- 👀 I’m interested in Python for machinlerning and ai build
 - 🌱 I’m currently learning Student of MCA
 - 📫 How to reach me ...Email_id :- patel021299@gmail.com
 
